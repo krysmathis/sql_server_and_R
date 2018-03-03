@@ -6,7 +6,7 @@ To use the forecast package, I need to add that package to SQL Server
 ```sh 
 C:\Program Files\MSSQL14.MSSQLSERVER\R_SERVICES\bin\x64
 ``` 
-I'm using SQLEXPRESS, but you can find the file. From there, you'll open an R Environment. 
+I'm using SQLEXPRESS, but you can find the file. From there, you'll open an R Environment by right clicking the RGui.exe and select 'Run as administrator'. 
 To install the package(s):
 ```sh
 install.packages("forecast")
